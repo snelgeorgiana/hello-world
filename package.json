@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-p",
+  "version": "1.0.0",
+  "description": "this is a simple try ## and a simple checking of github features ## for the branch brdan ## aleluia",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.5.9"
+  }
+}
